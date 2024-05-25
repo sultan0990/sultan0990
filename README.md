@@ -2,8 +2,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=14FF00&center=true&vCenter=true&width=435&lines=I'm+a+Student;Narula Institute of Technology +25%22;Web+Developer+%7C%7C+Cyber+Security+" alt="Typing SVG" /></a>
 <img align="right" alt="hacking" width="250" src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif">
 <br> <p align="left">
-  
-- 🌱 I’m currently learning... **B.Tech (CSE) @ Narula Institute of Technology ** 
+<h3 align="center">A passionate Android Developer from India</h3>
+- 🌱 I’m currently learning... **B.Tech (CSE) @ Narula Institute of Technology** 
 
 - 🧭 Exploreing... **New Technologies**
 
@@ -19,10 +19,6 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rahulkamilya09) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_rahulkamilya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulkamilya) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kamilyatwt)
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-
-
-<h3 align="center">A passionate Android Developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
